@@ -1,0 +1,132 @@
+<xml>
+	<store>
+		<category name="category 1">
+
+			<product name="product 1" type="apparel" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+				<size>SMALL,MEDIUM,LARGE,X LARGE</size>
+			</product>
+			
+			<product name="product 2" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			
+			<product name="product 3" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 4" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 5" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 6" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 7" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 8" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 9" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 10" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 11" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			<product name="product 12" type="label" price="11">
+				<description>DESCRIPTION FOR THIS PRODUCT GOES HERE</description>
+				<thumb>images/1.png</thumb>
+				<picture color="RED">images/1.jpg</picture>
+				<picture color="GREEN">images/2.jpg</picture>
+				<picture color="BLUE">images/3.jpg</picture>
+				<picture color="BLACK">images/4.jpg</picture>
+				<picture color="WHITE">images/6.jpg</picture>
+			</product>
+			
+			
+		</category>
+	
+	
+	</store>
+</xml>
