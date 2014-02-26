@@ -1,0 +1,691 @@
+<xml>
+<buttons>
+	<btn>
+		<name>home</name>
+		<text>Home</text>
+	</btn>
+	<btn>
+		<name>aboutUs</name>
+		<text>About Us</text>
+	</btn>
+	<btn>
+		<name>menu</name>
+		<text>Menu</text>
+		<subBtn>
+			<name>drink</name>
+			<text>Drinks</text>
+		</subBtn>
+		<subBtn>
+			<name>lunch</name>
+			<text>Lunch</text>
+		</subBtn>
+		<subBtn>
+			<name>dinner</name>
+			<text>Dinner</text>
+		</subBtn>
+		<subBtn>
+			<name>brunch</name>
+			<text>Brunch</text>
+		</subBtn>
+	</btn>
+	<btn>
+		<name>events</name>
+		<text>Events</text>
+	</btn>
+	<btn>
+		<name>contact</name>
+		<text>Contact</text>
+	</btn>
+	<btn>
+		<name>party</name>
+		<text>Party</text>
+	</btn>
+</buttons>
+
+<homeContent>
+	<buttons>
+		<btn>
+			<name>menu</name>
+			<txt>Menu</txt>
+			<image>images/homeBtnOne.jpg</image>
+			<kind>page</kind>
+		</btn>
+		<btn>
+			<name>contact</name>
+			<txt>Newsletter</txt>
+			<image>images/homeBtnTwo.jpg</image>
+			<kind>page</kind>
+		</btn>
+		<btn>
+			<name>event</name>
+			<txt>Events</txt>
+			<image>images/homeBtnThree.jpg</image>
+			<kind>eventPopup</kind>
+		</btn>
+		<btn>
+			<name>facebook</name>
+			<txt>Facebook</txt>
+			<image>images/homeBtnFour.jpg</image>
+			<kind>facebookPopup</kind>
+		</btn>
+	</buttons>
+
+	<slider>
+		<page>
+			<name>sliderOne</name>
+			<title>Welcome to North Harbor Club</title>
+			<txt>Thank you, for stopping by...</txt>
+			<image>images/homeSliderOne.jpg</image>
+		</page>
+		<page>
+			<name>sliderTwo</name>
+			<title>Great View with Great Food</title>
+			<txt>Enjoy a little break form the daily norm</txt>
+			<image>images/homeSliderTwo.jpg</image>
+		</page>
+		<page>
+			<name>sliderThree</name>
+			<title>Live Music Even Liver Specials</title>
+			<txt>Check out our weekly specials and live music dates under "Events"</txt>
+			<image>images/homeSliderThree.jpg</image>
+		</page>
+		<page>
+			<name>sliderFour</name>
+			<title>Want A Fun Night</title>
+			<txt>Let's party on your dime</txt>
+			<image>images/homeSliderFour.jpg</image>
+		</page>
+	</slider>
+</homeContent>
+
+<aboutContent>
+	<page>
+		<name>aboutUs</name>
+		<image>images/aboutTopLeft.jpg</image>
+		<title>Welcome To About Us</title>
+		<txt>
+			<![CDATA[<img src="images/aboutUs1.jpg" align="right" width="500" height="332" /><p align="center"><span class="caviarDreamBI"><font size="20"><br><br>Our unique decor may just surprise you. From the large sailboat greeting you at the door to the unusual and historic watercraft mounted from the ceilings, your dining experience will always be intriguing. Something different may catch your eye at every visit.</font></span></p>
+			
+			<img src="images/aboutUs2.jpg" align="left" hspace="50" width="232" height="350" /><p align="left"><span class="caviarDreamB"><font size="24"><br><br><br><br><br><br>One of three boats hanging from the ceilings is called a "scull". Situated in the main dining room, this two-man "rowing" boat was used to compete in the Royal Henley Regatta in the mid-1970's; the race, however, dates to 1829 with a meeting between Oxford and Cambridge Universities and has run every year since except during the World Wars. A "shell", or one-man boat, is located in the Boathouse (our banquet room).</font></span></p>
+			
+			<img src="images/aboutUs3.jpg" align="right" width="400" height="266" /><p align="left"><span class="caviarDreamB"><font size="24"><br><br>Situated over the bar area is an 18' Old Towne "H.W. Model" canoe, dating back to 1913. Its setting is complete with boat dock, fishing tackle, and an old pair of shoes - all upside down! This model was built specifically for use on large rivers, lakes, large ponds and salt water. The lines are speedy and graceful, with the same care given by the Indians to their bark canoes.</font></span></p>
+			]]>
+		</txt>
+	</page>
+</aboutContent>
+
+
+
+
+<menuContent>
+
+
+	<type>
+		<kind>drinkPopup</kind>
+		<name>drinks</name>
+		<title>Drinks</title>
+		<txt>This is some Menu Button Text</txt>
+		<image>images/drinkMenuBtn.jpg</image>
+		
+		<drinkMenu>
+			<kind>menuPopup</kind>
+			<name>beers</name>
+			<title>Beer</title>
+			<txt>This is some Menu Button Text</txt>
+			<image>images/drinkMenuBtn.jpg</image>
+			<menu> <![CDATA[<p align="center">
+			
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Beers</font></span>
+			
+<span class="caviarDreamB"><font size="22"><br><br>Budweiser</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Bud Light</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Miller Lite</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Coors Light</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Michelob Ultra</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Yuengling Lager</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>The Duck-Rabbit Milk Stout</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>The Duck-Rabbit Brown Ale</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Corona</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Corona Light</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Rolling Rock</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Blue Moon</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Sierra Nevada Pale Ale</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Mother Earth - Dark Cloud</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Highland Oatmeal Porter</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Highland Brewing IPA</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Peacemaker Pale Ale</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Sweet Josie Brown Ale</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Bells Two Hearted/font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Stella Artois</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Olde Mecklenburg Copper</font></span><br><span class="caviarDream"><font size="20">TEXT HERE</font></span>
+
+			
+			</p>]]> </menu>
+		</drinkMenu>
+		
+		<drinkMenu>
+			<kind>menuPopup</kind>
+			<name>wine</name>
+			<title>Wines</title>
+			<txt>This is some Menu Button Text</txt>
+			<image>images/drinkMenuBtn.jpg</image>
+			<menu> <![CDATA[<p align="center">		
+			
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Wines</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cafe Amore</font></span><br><span class="caviarDream"><font size="20">Brandy - Amaretto</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cafe Barbados</font></span><br><span class="caviarDream"><font size="20">Myer's Rum - Tia Maria</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cafe Italiano</font></span><br><span class="caviarDream"><font size="20">Sambuca - Amaretto</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cafe Almond Joy</font></span><br><span class="caviarDream"><font size="20">Godiva - Bailey's - Malibu Rum</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cafe Appalachain</font></span><br><span class="caviarDream"><font size="20">Wild Turkey Honey - Blackstrap Molasses</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Orient Express</font></span><br><span class="caviarDream"><font size="20">Domaine de Canton Ginger Liqueur - Espresso</font></span>
+
+	</p>]]></menu>
+		</drinkMenu>
+		
+		<drinkMenu>
+			<kind>menuPopup</kind>
+			<name>docktails</name>
+			<title>Docktails</title>
+			<txt>This is some Menu Button Text</txt>
+			<image>images/drinkMenuBtn.jpg</image>
+			<menu> <![CDATA[<p align="center">
+			
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Docktails</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Island Water</font></span><br><span class="caviarDream"><font size="20">House Infused Pineapple Vodka - Malibu Rum Fresh Lime Juice - Simple Syrup</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Apples and Oranges</font></span><br><span class="caviarDream"><font size="20">Absolut Orient Apple Vodka - Smirnoff Orange Vodka Cranberry - Orange Infused Bitters</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Violet Beauregarde</font></span><br><span class="caviarDream"><font size="20">House Infused Blueberry Lemon Vodka Domaine Canton - Fresh Squeezed Citrus Chambord</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Kiwi Strawberry Lime-Aid</font></span><br><span class="caviarDream"><font size="20">House Infused Kiwi Strawberry Vodka Fresh Squeezed Lime-Aid</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Bacon Old Fashioned</font></span><br><span class="caviarDream"><font size="20">Bacon Infused Jack Daniel's - Maple Syrup Orange Infused Bitters - Muddled Orange & Cherry</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Ginger Caipirinha</font></span><br><span class="caviarDream"><font size="20">Leblon Cachaca - Fresh Limes Ginger Jalapeno Simple Syrup</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Pama Mama</font></span><br><span class="caviarDream"><font size="20">Pama Liquer - Malibu Rum - Lime Orange and Pineapple Juice</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Passionita</font></span><br><span class="caviarDream"><font size="20">Jose Cuervo - Cointreau Passion Fruit - Lime Juice</font></span>
+
+			</p>]]> </menu>
+		</drinkMenu>
+		
+		<drinkMenu>
+			<kind>menuPopup</kind>
+			<name>martini</name>
+			<title>Martini</title>
+			<txt>This is some Menu Button Text</txt>
+			<image>images/drinkMenuBtn.jpg</image>
+			<menu> <![CDATA[<p align="center">
+			
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Martini</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Lemon Drop</font></span><br><span class="caviarDream"><font size="20">Smirnoff Citrus Vodka - Cointreau Lemon Juice - Sugared Rim - Twist</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Ty Cobb</font></span><br><span class="caviarDream"><font size="20">House Infused Georgia Peach Vodka Fresh Squeezed Citrus - Simple Syrup</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Lavender</font></span><br><span class="caviarDream"><font size="20">Vanilla Vodka - Lavender Simple Syrup - Lemon Juice</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Pomegranate</font></span><br><span class="caviarDream"><font size="20">Pama Liqueur - Vodka - Triple Sec</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Raspberry Cosmopolitan</font></span><br><span class="caviarDream"><font size="20">Skyy Raspberry Vodka - Cointreau Cranberry and Lime Juice - Twist</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Elderflower Gimlet</font></span><br><span class="caviarDream"><font size="20">Hendrick's Gin - St. Germain - Lime Juice</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>XXX</font></span><br><span class="caviarDream"><font size="20">Stolichnaya Vodka - Dry Vermouth Extra Dirty - Blue Cheese Stuffed Olives/font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cucumber</font></span><br><span class="caviarDream"><font size="20">House Infused Cucumber Vodka Fresh Squeezed Citrus - Simple Syrup</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>French</font></span><br><span class="caviarDream"><font size="20">Skyy Vodka - Chambord - Pineapple Juice Orange Twist</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Sour Patch Kid</font></span><br><span class="caviarDream"><font size="20">Orange and Raspberry Vodka - Sloe Gin - Apple Pucker House Made Sour - Cranberry - Pixy Stix Rim</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Oatmeal Chocolate Chip Martini</font></span><br><span class="caviarDream"><font size="20">Goldschlager - Bailey's - Buttershots Creme - Chocolate Chip Glass</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Tiramisutini</font></span><br><span class="caviarDream"><font size="20">Stolichnaya - Godiva - Buttershots Frangelico - Bailey's - Espresso - Chocolate Dusting</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Smoretini</font></span><br><span class="caviarDream"><font size="20">Vanilla Vodka - Godiva - Marshmellow Syrup Graham Cracker Rim - Toasted Marshmellow</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Wedding Cake</font></span><br><span class="caviarDream"><font size="20">Vanilla Vodka - Malibu Rum - Frangelico Pineapple Juice - Grenadine</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Grasshopper</font></span><br><span class="caviarDream"><font size="20">Stolichnaya Vodka - Creme de Menthe & Cacao Milk - Cocoa Rim</font></span>
+
+			</p>]]> </menu>
+		</drinkMenu>
+	</type>
+	
+	
+	
+	
+	<type>
+		<kind>menuPopup</kind>
+		<name>lunch</name>
+		<title>Lunch</title>
+		<txt>This is some Menu Button Text</txt>
+		<image>images/lunchMenuBtn.jpg</image>
+		<menu>
+			<![CDATA[<p align="center">
+			
+
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Starters</font></span>
+
+
+<span class="caviarDreamB"><font size="22"><br><br>Asparagus Fries</font></span><br><span class="caviarDream"><font size="20">Tempura Asparagus, Honey Mustard Aioli, Soy Vinaigratte</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Starter Caesar Salal, Starter Mixed Green or Starter Greek Salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chilled Gulf Shrimp</font></span><br><span class="caviarDream"><font size="20">Spicy Tomato, Lemon Cream and Horseradish Vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Take a Dip</font></span><br><span class="caviarDream"><font size="20">Spinach, Artichoke with lots of Tangy Cheese, Lemon Oil & Crisp Yucca</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>North Harbor Club Lobster Chowder</font></span><br><span class="caviarDream"><font size="20">Maine Cold Water Lobster Chowder, Chunky Potato and Vegetables</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Lobster Mac-n-Cheese</font></span><br><span class="caviarDream"><font size="20">Orecchiette Pasta, Mascarpone Cheese and Truffle Cream</font></span>
+
+
+
+<span class="caviarDreamB"><font size="24" ><br><br><br><br>Mains</font></span>
+
+
+<span class="caviarDreamB"><font size="22"><br><br>Charred Balsamic and Honey Mopped Portobello on Ciabatta</font></span><br><span class="caviarDream"><font size="20">Basil Mayonnaise, Smokey Red Pepper & Gruyere with Harbor Fries</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chicken and Fresh Mozzarella Melt</font></span><br><span class="caviarDream"><font size="20">Chicken, Slow Roast Tomato Preserves, Basil Leaves<br>Kalamata Olive Aioli served with a Greek Cucumber Slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Ham, Gruyere Cheese and Fried Egg Sandwich</font></span><br><span class="caviarDream"><font size="20">Crisped English Muffin, Dijon Mayonnaise<br>Roast Potato Salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Apple Cider Brined Pork Loin</font></span><br><span class="caviarDream"><font size="20">Bosc Pear, Fontina Cheese, Pickled Pepper Relish<br>on Rosemary Sour Dough, Potato Salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cornmeal Crisped Catfish</font></span><br><span class="caviarDream"><font size="20">Green Chile Tarter Sauce, Asiago Whipped Potatoes with<br>Carolina Coastal Style Cole Slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Pastrami Springroll</font></span><br><span class="caviarDream"><font size="20">Pastrami, Pickle and Creamy Fontina Cheese Spicy<br>Red Cabbage, Brown Grain Mustard</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Arugula Burger</font></span><br><span class="caviarDream"><font size="20">Crumbled Blue Cheese, Baby Arugula with Caramelized Onions<br>On a Grilled Farmers Bun with Yukon Fried Potatoes </font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Spinach & Shrimp Satay Salad</font></span><br><span class="caviarDream"><font size="20">Napa Cabbage, Crunchy Rice Noodles,<br>Asian Peanut Vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Grown Up Grilled Cheese</font></span><br><span class="caviarDream"><font size="20">Gooey Fontina, Caramelized Onion and Wild Mushroom<br>"Homemade Tomato Jam" and Crisp Asparagus Fries</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Flame Grilled Queso Fundido Burger</font></span><br><span class="caviarDream"><font size="20">Monterey Jack Cheese, Poblano Green Chiles, Chorizo<br>And Grilled Red Onion on Brioche</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Slow Roasted Turkey and Avocado Panini</font></span><br><span class="caviarDream"><font size="20">Pecan Smoked Bacon, Radish Sprouts<br>Creamy Havarti Cheese on a Cranberry Nut Bread with Potato Salad </font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Fried Green Tomato "BLT"</font></span><br><span class="caviarDream"><font size="20">"Nueske" Bacon, Arugula and Goat Cheese Smear on Foccacia, Potato Salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Crab Cake Salad</font></span><br><span class="caviarDream"><font size="20">Seasonal Greens, English Cucumber, Slow Oven Roast Plum Tomatoes with<br>Kalamata Olives, Creamy Feta Tzatziki Dressing,<br>Fried Chickpeas and Crisp Pita</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Charred Chicken Breast</font></span><br><span class="caviarDream"><font size="20">Baby Artichoke, Asparagus, Fingerling Potato and Roof Top Tomato<br>Braised in White Wine & Extra Virgin Olive Oil</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>"A Wedge Like Salad"</font></span><br><span class="caviarDream"><font size="20">Crisp Iceberg Lettuce, Applewood Smoked Bacon, Tomato,<br>Aged Flat Iron Steak and a Blue Ranch Dressing</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Classic Caesar - Mixed Green - Greek Salad</font></span><br><span class="caviarDream"><font size="20">Crisp Garnished Salad Greens</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>South of the Mason Dixon Meat Loaf Sandwich</font></span><br><span class="caviarDream"><font size="20">Thick Cut bacon, Pimento Cheese and Meat Loaf on Smoky Grilled Bun, Fries</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chicken and Butternut Squash Rigatoni</font></span><br><span class="caviarDream"><font size="20">Cured Applewood Bacon, Toasted Pumpkin Seed<br>with a White Wine and Sage Cream</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Coriander Marinated Flat Iron Steak</font></span><br><span class="caviarDream"><font size="20">Country Mashed Potato Cake with Asparagus Fries and a<br>Chimichurri Vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Miso Glazed "Thai Style" Tuna Sandwich</font></span><br><span class="caviarDream"><font size="20">Pickled Cucumber and Daikon, Serrano Chiles & Cilantro on a Toasted Bun<br>Smeared with Spicy Mayonnaise, Wasabi Slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Big Lakeside Burger</font></span><br><span class="caviarDream"><font size="20">Served on a Grilled Farmers Bread Roll with North Harbor Fries</font></span>
+
+<span class="caviarDreamBI"><font size="14" ><br><br><br><br>%20 gratuity added to parties of six or more   -   two dollar plate chage for split main courses<br><br></font>
+
+</p>]]>
+		</menu>
+	</type>
+	<type>
+		<kind>menuPopup</kind>
+		<name>dinner</name>
+		<title>Dinner</title>
+		<txt>This is some Menu Button Text</txt>
+		<image>images/dinnerMenuBtn.jpg</image>
+		<menu>
+			<![CDATA[<p align="center">
+			
+			
+			
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Starters</font></span>
+
+
+<span class="caviarDreamB"><font size="22"><br><br>Asparagus Fries with Green Tomato</font></span><br><span class="caviarDream"><font size="20">soy vinaigrette and honey mustard aioli with baby arugula</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>"A Wedge Like Salad"</font></span><br><span class="caviarDream"><font size="20">crisp iseberg lettuce, applewood smked bacon, grape tomato and blue ranch dressing</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Coastal Lump Crab Cake</font></span><br><span class="caviarDream"><font size="20">local corn salad, lemon vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Lobster Mac-n-Cheese</font></span><br><span class="caviarDream"><font size="20">orecchiette pasta, mascarpone cheese and truffle</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Pan Roasted Mussels</font></span><br><span class="caviarDream"><font size="20">spice rubbed cauliflower, ale and spicy spanish chorizo</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Beet Salad</font></span><br><span class="caviarDream"><font size="20">roast yellow and red spring beets, goat cheese<br>sunflowers sprouts and pistachios</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Crisp Brie Spring Roll</font></span><br><span class="caviarDream"><font size="20">honey basted grilled pineapple, fris�e,<br>almond cream</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chilled Gulf Shrimp</font></span><br><span class="caviarDream"><font size="20">spicy tomato, lemon cream and horseradish vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Quesadilla Trio</font></span><br><span class="caviarDream"><font size="20">Corn tortillas, tasso ham, Nueski bacon with wild mushrooms<br>and chunky chorizo sausage, trio of salsas</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Take a Dip</font></span><br><span class="caviarDream"><font size="20">spinach, artichoke with lots of tangy cheese, lemon oil and crisp yucca</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>North Harbor Lobster Chowder</font></span><br><span class="caviarDream"><font size="20">maine lobster and potato studded chowder</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Classic Caesar Salad</font></span><br><span class="caviarDream"><font size="20">crisp romaine hearts, grated parmesan, fresh toasted garlicky croutons</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>North Harbor Mixed Greens</font></span><br><span class="caviarDream"><font size="20">mesclun, crunchy-spiced pecans and grape tomatoes<br>with a candied garlic vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Greek Salad</font></span><br><span class="caviarDream"><font size="20">english cucumber, block feta, heirloom tomato, kalamata olive and<br>red onion with an lemon-oregano vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Shrimp Cigars</font></span><br><span class="caviarDream"><font size="20">aged balsamic syrup</font></span>
+
+
+<span class="caviarDreamB"><font size="24" ><br><br><br><br>Mains</font></span>
+
+
+<span class="caviarDreamB"><font size="22"><br><br>Chorizo Stuffed Chicken Breast</font></span><br><span class="caviarDream"><font size="20">pan-crisped chicken breast, smokey mac-n-cheese,<br>sllow cooked cabbage with salsa verde</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Herb Crusted Tilapia</font></span><br><span class="caviarDream"><font size="20">ricotta, fresh mozzarella potato cake with roast winter tomato and basil vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Miso Glazed Tuna</font></span><br><span class="caviarDream"><font size="20">fingerling potato, green olive and dates with broccoli rabe</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Fire Roasted Roasted Atlantic Amberjack</font></span><br><span class="caviarDream"><font size="20">braised baby artichoke, asparagus, fingerling potato<br>and roof top tomatoes and fresh basil leaves</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Bucatini Pasta with Crumbled Bratwurst Sausage</font></span><br><span class="caviarDream"><font size="20">Ashville porter cream, wihite cheddar and fontina cheese, dandelion greens</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Herb Roasted Salmon</font></span><br><span class="caviarDream"><font size="20">orzo artichoke, pine nuts and a lemon rosemary vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Latin Mopped and Brined Pork Chop</font></span><br><span class="caviarDream"><font size="20">smashed corn and white cheddar grit cake</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cornmeal Crisped Catfish</font></span><br><span class="caviarDream"><font size="20">asiago-basil potato cake, green-chile tartar sauce, Carolina coastal style slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Charcoal Grilled Flat Iron Steak</font></span><br><span class="caviarDream"><font size="20">jalapeno breamed corn, scalloped potato, crisp tortilla slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Grilled Aged Filet Mignon</font></span><br><span class="caviarDream"><font size="20">boulangere potatoes, lemon-thyme asparagus</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chicken and Butternut Squash Rigatoni</font></span><br><span class="caviarDream"><font size="20">creamy parmesan, crunchy sage, toasted pumpkin seeds, and crisp cured ham</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Carolina Lump Crab Cakes</font></span><br><span class="caviarDream"><font size="20">local corn salad with a smoky zucchini plank<br>fermented mustard seeds</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Sides</font></span> 
+<span class="caviarDreamI"><font size="20">Warm Garllic Croutons					 Smoky Mac-n-Cheese			  			 </font></span>
+<span class="caviarDreamI"><font size="20">Poblano Chile								      Scalloped Potatos			  			  </font></span>
+<span class="caviarDreamI"><font size="20">Jalapeno Creamed Corn				  Zucchini Plank			  			     </font></span>
+<span class="caviarDreamI"><font size="20">Grilled Asparagus Spears			  Ricotta - Mozzarella Cake</font></span>
+
+<span class="caviarDreamBI"><font size="14" ><br><br><br><br>%20 gratuity added to parties of six or more   -   two dollar plate chage for split main courses<br><br></font></p>
+
+]]>
+		
+		</menu>
+	</type>
+	<type>
+		<kind>menuPopup</kind>
+		<name>brunch</name>
+		<title>Brunch</title>
+		<txt>This is some Menu Button Text</txt>
+		<image>images/brunchMenuBtn.jpg</image>
+		<menu>
+			<![CDATA[<p align="center">
+			
+			
+			
+
+<span class="caviarDreamB"><font size="24" ><br><br><br><br><br><br>Brunch</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>French Toast</font></span><br><span class="caviarDream"><font size="20">vanilla infused french toast thick sliced warm maple syrup and powered sugar</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Smoked Salmon and Gruyere Panini</font></span><br><span class="caviarDream"><font size="20">with soft poached egg</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Loads of Cheese and Bacon Omelet</font></span><br><span class="caviarDream"><font size="20">white cheddar, monterey jack and mozzarella breakfast potatoes and a biscuit</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Crabby Poached Eggs</font></span><br><span class="caviarDream"><font size="20">two potato hash, crisp tortilla smothered in a coriander hollandaise</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Wild Mushroom and Spinach Frittata</font></span><br><span class="caviarDream"><font size="20">goat cheese and carmalized onion breakfast potatoes</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>The Dock</font></span><br><span class="caviarDream"><font size="20">2 eggs any style, 2 strips bacon, 2 sausage links 2 french toast, breakfast potatoes with a biscuit</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Steak and Eggs</font></span><br><span class="caviarDream"><font size="20">charred flat iron steak, three large eggs served with home fried potatoes and a biscuit</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Ham and Gruyere on Pullman</font></span><br><span class="caviarDream"><font size="20">fried egg, dijon mayonnaise potato salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Cajun Shrimp and Grits</font></span><br><span class="caviarDream"><font size="20">sauteed white shrimp, andouille sausage and a pepper cajun cream</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Trio of Eggs Cooked Your Way</font></span><br><span class="caviarDream"><font size="20">choice of bacon or sausage, breakfast potato or grits and a fresh baked biscuit</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>West of I-77 Omelet</font></span><br><span class="caviarDream"><font size="20">sauteed smoked ham, onion, bell pepper cheddar cheese with breakfast potatoes and biscuit</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Eggs Benedict</font></span><br><span class="caviarDream"><font size="20">poached egg, english muffin and Canadian bacon smothered in hollandaise with breakfast potatoes</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Fried Green Tomato "BLT"</font></span><br><span class="caviarDream"><font size="20">"nueske bacon" arugula, goat cheese smear on focaccia, potato salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Arugula Burger</font></span><br><span class="caviarDream"><font size="20">arugula, carmelized onion & blue cheese, fries</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Slow Roasted Turkey and Avacado Panini</font></span><br><span class="caviarDream"><font size="20">pecan smoked bacon, radish sprouts havarti on cranberry nut bread, potato salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Apple Cider Brined Pork Loin Sandwich</font></span><br><span class="caviarDream"><font size="20">bosc pear, fontina cheese, pickled pepper relish on rosemary sour dough, potato salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chilled Atlantic Shrimp</font></span><br><span class="caviarDream"><font size="20">tomato, horseradish vinaigrette, lemon cream</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Shrimp & Spinach Satay Salad</font></span><br><span class="caviarDream"><font size="20">napa cabbage, crunchy rice noodles, asian peanut vinaigrette</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>"The Wedge Like Salad"</font></span><br><span class="caviarDream"><font size="20">crisp iceberg, bacon, tomato & grilled flat iron steak tossed with a blue ranch dressing</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Pastrami Springroll</font></span><br><span class="caviarDream"><font size="20">pastrami, pickle and sharp gruyere cheese spicy red cabbage, brown grain mustard</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Queso Fundido Burger</font></span><br><span class="caviarDream"><font size="20">monterey jack cheese, charred poblano chiles, chorizo and grilled red onion on brioche</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Chicken and Fresh Mozzarella Melt</font></span><br><span class="caviarDream"><font size="20">roast chicken, slow roast tomato preserves, basil kalamata olive aioli, greek cucumber slaw</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Crab Cake Salad</font></span><br><span class="caviarDream"><font size="20">greens, cucumber, oven roast tomato, olives feta tzatziki dressing, fried chickpeas and pita</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Grown-Up Grilled Cheese</font></span><br><span class="caviarDream"><font size="20">gooey fontina, caramelized onion and wild mushroom "homemade tomato jam" and potato salad</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>Classic Caesar, House or Greek Salad</font></span><br><span class="caviarDream"><font size="20">add shrimp, salmon, chicken or steak</font></span>
+
+<span class="caviarDreamB"><font size="22"><br><br>The Big Lakeside Burger</font></span><br><span class="caviarDream"><font size="20">farmers roll with crisp french fries<br><br><br><br><br><br></font></span>
+
+</p>]]>
+		</menu>
+	</type>
+	<type>
+		<kind>menuPopup</kind>
+		<name>event</name>
+		<title>Event</title>
+		<txt>This is some Menu Button Text</txt>
+		<image>images/eventMenuBtn.jpg</image>
+		<menu>
+			<![CDATA[<font size="16" face="verdana"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+
+<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i>. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. <b>Vestibulum lacinia arcu eget nulla</b>. Proin ut ligula vel nunc egestas porttitor. <b>Curabitur tortor</b>. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. </p>
+
+<p>Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. </p>
+
+<p>Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. </p>
+
+<p>Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. </p>
+
+</font>]]>
+		</menu>
+	</type>
+</menuContent>
+
+
+
+
+<eventsContent>
+	<event>
+		<name>testOne</name>
+		<date>08/27/2012</date>
+		<title>Test One</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test1.jpg</image>
+	</event>
+	<event>
+		<name>testSeven</name>
+		<date>08/15/2012</date>
+		<title>Test Seven</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test3.jpg</image>
+	</event>
+	<event>
+		<name>testThree</name>
+		<date>08/24/2012</date>
+		<title>Test Three</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test3.jpg</image>
+	</event>
+	<event>
+		<name>testFive</name>
+		<date>08/18/2012</date>
+		<title>Test Five</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test5.jpg</image>
+	</event>
+	<event>
+		<name>testFour</name>
+		<date>08/24/2012</date>
+		<title>Test Four</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test4.jpg</image>
+	</event>
+	<event>
+		<name>testTwo</name>
+		<date>08/24/2012</date>
+		<title>Test Two</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test2.jpg</image>
+	</event>
+	<event>
+		<name>testSix</name>
+		<date>08/15/2012</date>
+		<title>Test Six</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test3.jpg</image>
+	</event>
+	<event>
+		<name>testFour</name>
+		<date>09/5/2012</date>
+		<title>Test Four</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test4.jpg</image>
+	</event>
+	<event>
+		<name>testTwo</name>
+		<date>9/7/2012</date>
+		<title>Test Two</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test2.jpg</image>
+	</event>
+	<event>
+		<name>testSix</name>
+		<date>09/15/2012</date>
+		<title>Test Six</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test3.jpg</image>
+	</event>
+	<event>
+		<name>testFour</name>
+		<date>10/5/2012</date>
+		<title>Test Four</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test4.jpg</image>
+	</event>
+	<event>
+		<name>testTwo</name>
+		<date>10/11/2012</date>
+		<title>Test Two</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test2.jpg</image>
+	</event>
+	<event>
+		<name>testSix</name>
+		<date>10/23/2012</date>
+		<title>Test Six</title>
+		<txt><![CDATA[<p><span class="caviarDreamB"><font size="22">This is some dummy text</font><span></p>]]></txt>
+		<image>images/events/test3.jpg</image>
+	</event>
+
+</eventsContent>
+
+
+
+
+<contactContent>
+	<page>
+		<name>contact</name>
+		<title>Contact Us - Newsletter</title>
+		<txt>
+			<![CDATA[<p><span class="caviarDreamB"><font size="20">We would love to hear your comments or suggestions on your visit to our restaurant or our website.</font></span></p>
+			<p><span class="caviarDreamBI"><font size="18"><br>North Harbor Club <br>100-D North Harbor Place <br>Davidson, NC 28036 <br>704.896.5559</font><font size="20" color="#0000FF" ><br><u><a href="mailto:info@northharborclub.com">info@northharborclub.com</a></u></font></span></p>
+			]]>
+		</txt>
+	</page>
+</contactContent>
+
+
+<partyContent>
+	<page>
+		<name>party</name>
+		<title>Events and Partys</title>
+		<txt>
+			<![CDATA[<p><span class="caviarDreamB"><font size="20">Login to view your package and floor plan. If you would like to request private room click "Party Request Form" button.</font></span></p>
+			]]>
+		</txt>
+	</page>
+	<slider>
+		<page>
+			<name>sliderOne</name>
+			<title>Welcome to North Harbor Club</title>
+			<txt>Thank you, for stopping by...</txt>
+			<image>images/homeSliderOne.jpg</image>
+		</page>
+		<page>
+			<name>sliderTwo</name>
+			<title>Great View with Great Food</title>
+			<txt>Enjoy a little break form the daily norm</txt>
+			<image>images/homeSliderTwo.jpg</image>
+		</page>
+		<page>
+			<name>sliderThree</name>
+			<title>Live Music Even Liver Specials</title>
+			<txt>Check out our weekly specials and live music dates under "Events"</txt>
+			<image>images/homeSliderThree.jpg</image>
+		</page>
+		<page>
+			<name>sliderFour</name>
+			<title>Want A Fun Night</title>
+			<txt>Let's party on your dime</txt>
+			<image>images/homeSliderFour.jpg</image>
+		</page>
+	</slider>
+</partyContent>
+
+
+</xml>
